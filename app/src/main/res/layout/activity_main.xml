@@ -61,31 +61,32 @@
         >
         <ImageView
             android:id="@+id/a1"
-            style="@style/casilla"></ImageView>
+            style="@style/casilla"/>
         <ImageView
             android:id="@+id/a2"
-            style="@style/casilla"></ImageView>
+            style="@style/casilla"/>
         <ImageView
             android:id="@+id/a3"
-            style="@style/casilla"></ImageView>
+            style="@style/casilla"/>
         <ImageView
             android:id="@+id/b1"
-            style="@style/casilla"></ImageView>
+            style="@style/casilla"/>
         <ImageView
             android:id="@+id/b2"
-            style="@style/casilla"></ImageView>
+            style="@style/casilla"/>
         <ImageView
             android:id="@+id/b3"
-            style="@style/casilla"></ImageView>
+            style="@style/casilla"/>
         <ImageView
             android:id="@+id/c1"
-            style="@style/casilla"></ImageView>
+            style="@style/casilla"/>
         <ImageView
             android:id="@+id/c2"
-            style="@style/casilla"></ImageView>
+            style="@style/casilla"/>
         <ImageView
             android:id="@+id/c3"
-            style="@style/casilla"></ImageView>
+            style="@style/casilla"/>
     </GridLayout>
+
 
 </LinearLayout>
